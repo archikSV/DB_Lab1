@@ -1,2 +1,2 @@
 -- Task 5: Specific quries
-SELECT student_name FROM Student_Grades
+SELECT average_grade_per_year FROM Student_Grades
