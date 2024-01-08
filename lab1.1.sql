@@ -1,2 +1,2 @@
 -- Task 5: Specific quries
-SELECT * FROM Student_Grades
+SELECT student_name FROM Student_Grades
