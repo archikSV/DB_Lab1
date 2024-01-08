@@ -1,2 +1,2 @@
--- Task 2: Rename DB "sample" -> "example"
-ALTER DATABASE sample RENAME TO example;
+-- Task 3: Delete DB
+DROP DATABASE IF EXISTS example;
