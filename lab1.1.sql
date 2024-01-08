@@ -1,2 +1,2 @@
 -- Task 5: Specific quries
-SELECT DISTINCT country FROM Student_Grades;
+SELECT DISTINCT city FROM Student_Grades;
