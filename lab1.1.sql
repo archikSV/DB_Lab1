@@ -1,2 +1,3 @@
 -- Task 5: Specific quries
-SELECT average_grade_per_year FROM Student_Grades
+SELECT student_name FROM student_grades
+WHERE min_grade > 50;
