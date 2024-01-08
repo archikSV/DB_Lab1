@@ -1,2 +1,2 @@
--- Task 1: Create DB
-CREATE DATABASE Sample;
+-- Task 2: Rename DB "sample" -> "example"
+ALTER DATABASE sample RENAME TO example;
